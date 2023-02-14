@@ -199,6 +199,13 @@ p {
   margin: 20px 10px;
 }
 
+.insta{
+  color: #ff4c68;
+}
+
+.mail{
+  color: #8f8f8f;
+}
 
 /* Changes in CSS for the devices which have width equal or smaller than 991px (say Tablet or Mobile Phone)*/
 @media (max-width: 991.20px) {
